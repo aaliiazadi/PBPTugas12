@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748826793316",
+    "project_id": "pbptugas12",
+    "storage_bucket": "pbptugas12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748826793316:android:13d285a921d198ec03d671",
+        "android_client_info": {
+          "package_name": "com.example.tugas12_pbp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7j6Jdg3VrrB9p5YE0w-E53SE5Z94xEP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

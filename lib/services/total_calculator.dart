@@ -13,8 +13,8 @@ class CartTotals {
 }
 
 class TotalCalculator {
-  static const double _serviceRate = 0.075; // 7.5%
-  static const double _pbiRate = 0.10; // 10% after service charge
+  static const double _serviceRate = 0.075;
+  static const double _pbiRate = 0.10; 
 
   static CartTotals calculate(double subtotal) {
     final serviceCharge = subtotal * _serviceRate;
